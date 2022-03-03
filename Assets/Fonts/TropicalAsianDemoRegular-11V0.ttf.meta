@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 266723ffc02ba2c4f8f383a84a733404
+timeCreated: 1578034383
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tropical Asian DEMO
+  fontNames:
+  - Tropical Asian DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
